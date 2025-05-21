@@ -1,4 +1,4 @@
-### 👊 E aí, beleza? Eu sou o Gabriel Araújo 😎
+###  E aí, beleza? Eu sou o Gabriel Araújo Soares
 
 🎮 Estudante de Jogos Digitais  
 💻 Desenvolvedor Web e de Jogos em formação — Full Stack na raça  
@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 Linguagens e tecnologias que mais uso
+###  Linguagens e tecnologias que mais uso
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
@@ -15,7 +15,7 @@
 
 ---
 
-### 🔧 Também mando bem com:
+### Também mando bem com:
 
 ![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 Projetos que estou desenvolvendo
+###  Projetos que estou desenvolvendo
 
 - 🧠 **[FURIA Backend](https://github.com/Mr-Princee/furia_backend)**  
   API com FastAPI + JWT + sistema de pontuação + feed de postagens
@@ -40,7 +40,7 @@
 
 ---
 
-### 🎯 O que eu tô buscando
+###  O que eu tô buscando
 
 - Estágio em desenvolvimento de **jogos** ou **web**  
 - Um time com vontade de crescer junto  
@@ -48,12 +48,9 @@
 
 ---
 
-### 📫 Bora trocar uma ideia?
+###  Contato comigo
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-araujo2001/)
-- 💌 Email: gabrielaraujo2001dev@gmail.com
+- 💌 Email: gabrielaraujosoares1@gmail.com
 
 ---
-
-_"Quem não corre atrás do código, acaba tomando exceção."_  
-☕ Gabriel Araújo
