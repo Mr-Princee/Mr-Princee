@@ -30,10 +30,10 @@
 
 ###  Projetos que estou desenvolvendo
 
-- 🧠 **[FURIA Backend](https://github.com/Mr-Princee/furia_backend)**  
+- 🧠 **[FURIA Backend](https://github.com/Mr-Princee/rede-furia/tree/main/BackEnd)**  
   API com FastAPI + JWT + sistema de pontuação + feed de postagens
 
-- ⚛️ **[FURIA Frontend](https://github.com/Mr-Princee/furia_frontend)**  
+- ⚛️ **[FURIA Frontend](https://github.com/Mr-Princee/rede-furia/commit/56cd62e15baff8e7a350aecb2d170661e06ab70a)**  
   UI com React, feed estilo Twitter, integração com backend e ideias malucas vindo aí
 
 - 🎮 **[Projetos em Godot](https://github.com/Mr-Princee/Kaiser_project_build_1.1)**  
