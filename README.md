@@ -43,7 +43,7 @@
 
 ###  O que eu tô buscando
 
-- Estágio em desenvolvimento de **jogos** ou **web**  
+- Estágio em desenvolvimento de **jogos**, **web** **Software**
 - Um time com vontade de crescer junto  
 - Desafios que me tirem da zona de conforto e me deixem no modo "foco total"
 
