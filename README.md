@@ -16,7 +16,7 @@
 
 ---
 
-### Também mando bem com:
+### Também sei usar:
 
 ![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -36,7 +36,7 @@
 - ⚛️ **[FURIA Frontend](https://github.com/Mr-Princee/furia_frontend)**  
   UI com React, feed estilo Twitter, integração com backend e ideias malucas vindo aí
 
-- 🎮 **[Projetos em Godot e C#](https://github.com/Mr-Princee?tab=repositories&q=godot&type=source)**  
+- 🎮 **[Projetos em Godot](https://github.com/Mr-Princee/Kaiser_project_build_1.1)**  
   Jogos, protótipos e experimentos — de UI a lógica de combate
 
 ---
