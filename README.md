@@ -1,9 +1,8 @@
 ###  E aí, beleza? Eu sou o Gabriel Araújo Soares
 
 🎮 Estudante de Jogos Digitais  
-💻 Desenvolvedor Web e de Jogos em formação — Full Stack na raça  
-🧠 Viciado em aprender, programar e transformar ideia em projeto  
-🔥 Nas horas vagas? Tô codando na Godot, explorando C++ ou quebrando a cabeça no React
+💻 Desenvolvedor Back-End e de Jogos em formação
+🧠 Viciado em aprender, programar e transformar ideia em projeto
 
 ---
 
