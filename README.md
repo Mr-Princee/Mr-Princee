@@ -1,6 +1,6 @@
 ###  E aí, beleza? Eu sou o Gabriel Araújo Soares
 
-🎮 Estudante de Jogos Digitais  
+🎮 Estudante de Analise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor Back-End e de Jogos em formação    
 🧠 Viciado em aprender, programar e transformar ideia em projeto
 
