@@ -8,8 +8,10 @@
 
 ###  Linguagens e tecnologias que mais uso:
 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-3C7EBB?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
@@ -17,10 +19,7 @@
 
 ### Também sei usar:
 
-![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
